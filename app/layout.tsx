@@ -1,3 +1,4 @@
+import "./ui/fonts";
 import { inter } from "./ui/fonts";
 import "./ui/global.css";
 
